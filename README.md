@@ -24,7 +24,7 @@ In addition, Boris has been awarded the title "senior security expert" and “Al
 ## Contact me
 `echo "aGkrZ2l0aHViQGxkaW5nLmVlCg==" | base64 -d`
 
-If possible, encrypt your message with our PGP key;
+If possible, encrypt your message with my PGP key;
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
