@@ -6,7 +6,7 @@
 
 CEO [@Brickdoc](https://github.com/brickdoc), formerly [@SequoiaCapital](https://github.com/sequoiacapital) China
 
-Rubyist. GraphQL Evangelist. [@aliyun](https://github.com/aliyun) MVP
+Rubyist. GraphQL Evangelist. [@Aliyun](https://github.com/aliyun) MVP
 
 An Entropy Slayer's Thoughts on Design, Code and the Poetic Life
 
