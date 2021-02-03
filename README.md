@@ -4,9 +4,9 @@
 
 ## Who Am I?
 
-CEO @Brickdoc, formerly @sequoiacapital China
+CEO [@Brickdoc](https://github.com/brickdoc), formerly [@SequoiaCapital](https://github.com/sequoiacapital) China
 
-Rubyist. GraphQL Evangelist. @aliyun MVP
+Rubyist. GraphQL Evangelist. [@aliyun](https://github.com/aliyun) MVP
 
 An Entropy Slayer's Thoughts on Design, Code and the Poetic Life
 
