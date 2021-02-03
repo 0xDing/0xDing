@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Boris's github stats](https://github-readme-stats.vercel.app/api?username=0xding&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Boris's github stats](https://github-readme-stats.vercel.app/api?username=0xding&theme=gotham&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Who Am I?
 
