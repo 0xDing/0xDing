@@ -4,9 +4,9 @@
 
 ## Who Am I?
 
-CEO [@Brickdoc](https://github.com/brickdoc), formerly [@SequoiaCapital](https://github.com/sequoiacapital) China.
+CEO [@Pleisto](https://github.com/pleisto), formerly [@SequoiaCapital](https://github.com/sequoiacapital).
 
-Rubyist. GraphQL Evangelist. [@Aliyun](https://github.com/aliyun) MVP.
+Rubyist. GraphQL Evangelist.
 
 An Entropy Slayer's Thoughts on Design, Code and the Poetic Life.
 
@@ -15,12 +15,13 @@ An Entropy Slayer's Thoughts on Design, Code and the Poetic Life.
 
 * GraphQL
 * Ruby on Rails
+* Rust
 * Typescript
 * PWA
 * Modular Monoliths
 * Cloud Native
-* Open-source intelligence
-* Conflict-free Replicated Data Types
+* OSINT
+* CRDT
 * Low-Code
 
 ## Contact me
